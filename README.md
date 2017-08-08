@@ -11,7 +11,7 @@ Have you ever read a book about investing, where they talk about the simplicity 
 * FCF COW
 * INSIDER BUYS
 * LOW PE EXPECTATIONS
-* MAGIC FOMULA
+* MAGIC FOMULA - https://github.com/Neyt/joel-greenblatt-the-magic-formula
 * NEGATIVE EV
 * NCAV
 * NNWC
